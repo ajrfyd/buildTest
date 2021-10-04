@@ -21,7 +21,6 @@
     "test": "jest src/index.test.js --verbose",
     "eject": "react-scripts eject",
     "report": "jest src/index.test.js --verbose --json --outputFile=report.jest.json",
-    "submit": "codestates-submission"
   },
   "eslintConfig": {
     "extends": "react-app"
